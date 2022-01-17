@@ -204,7 +204,142 @@ export const Trending = [
     description:
       "Rebel Society is a NFT limited edition collection of 7000 female characters created from hand-drawn ...",
   },
+  {
+    image:
+      "https://lh3.googleusercontent.com/KylGghhMuOcLmO0HJzRfR80CoYksNjDLDoNaHVUHQ0OolbFZA0XXoZt7jhkNcgYRhovFU3_GDofjCp2dLkwsh2t1hOun4SO_2xVT2Q=h200",
+    profilePic:
+      "https://lh3.googleusercontent.com/2DT750zjse2OISWy4dNsaWGHHu_DmUdw4SoisXC3pkwKkoOJzJ1kIl9DkXk5WfjtOY_08SI1U8PpcXFCSAKTvVL-b5ufMVlaRs-Chg=s100",
+    name: "The Sandbox Mega City LAND Sale",
+    username: "TheSandboxGame",
+    verified: true,
+    description:
+      "The Mega City LAND sale starts on January 13th at 1PM UTC. Read more [",
+  },
+  {
+    image:
+      "https://lh3.googleusercontent.com/pGU54BaIe5k4I_zsAt7j3mZaLLPDbRHzPqjPDOubQc_hyHw7T7lnGb8x3ce0O9NX3qYYD887BMZ3uvrbL1JJQU2g3Q=h200",
+    profilePic:
+      "https://lh3.googleusercontent.com/OnBu_tLdS59m_tThijZTUwikivyOdPFSY30VrD15Ucg8uW0x_bJ9iHQqP1iaQGh6Q5RllO_wFgfzVJunWgL6OWQw=s100",
+    name: "Wrapped Cryptopunks",
+    username: "82BDA1",
+    verified: true,
+    description:
+      "Wrapped Punks are ERC721 Tokens, each one backed 1:1 by an original Cryptopunk by Larvalabs.",
+  },
+  {
+    image:
+      "https://lh3.googleusercontent.com/BRc3b5rLetYdvdegAr47Zc5pA_5IJjC15b-RDjD_3dCw5CFvAYD528niO29f1JoztNmiM_se9oGWiCMBbW_Q-IDzmR3dvrI7tz16MA=h200",
+    profilePic:
+      "https://lh3.googleusercontent.com/myqaXDU9wGIyKQeA-AB7iIzlNbaktTaBR_CAqkNdIZ324jrG-Rc9i2z5jyRpvUVal1VPFC0ztnPuBCxfjo5qA18cfToFa3o2weSihQ=s100",
+    name: "THE REBELS by House of Kalinkin",
+    username: "therebelstory",
+    verified: false,
+    description:
+      "10101 genesis NFT Rebels who'll dress the Metaverse: your access pass into the future of digital fas...",
+  },
+  {
+    image:
+      "https://lh3.googleusercontent.com/DF4bZwvPCD41T26BKvDy1HtlPo9VwHLwDtwAlASt8X0DizBNuQgkIy8o9OjJJPMEY9hWxBdwO2lC5A8am5HCjL2CKkiFs043KQEI=h200",
+    profilePic:
+      "https://lh3.googleusercontent.com/0yznm7rZ0PHnCQW6kf3-nuY8K3JyrMyquoJ3v4V8pgos6Ko-1dTsxLw0fKwbihIXAuNauSfcV75ww8Uvv9OSO6eS5slFF-4Z5eyIMw=s100",
+    name: "MissCryptoClub",
+    username: "Lukeichi",
+    verified: false,
+    description:
+      "Miss Crypto is an NFT female avatar with personalities! 3D Vox Collection compatible with the Sandbo...",
+  },
+  {
+    image:
+      "https://lh3.googleusercontent.com/XCctAGbyHqEgklr5GCgILPPdRWUUxL7LLa1TR897SjwaEErsymCE5Cltqbd2UGooR-Q5Qsi333zmChbcJ2wD3flWBL3dFQiBC0BP=h200",
+    profilePic:
+      "https://lh3.googleusercontent.com/jdXA3bJl3Vld9aZdhOuKLmlbH1q3Imw2vCqITIOyDdXOmn-fpbU95dj8EwVNlxImAnsyfxgG4tzFZ8iLpZw2hCbd57c7zUmoGXIOux4=s100",
+    name: "Rengoku Legends [Samurai]",
+    username: "RengokuLegends",
+    verified: false,
+    description:
+      "Rengoku Legends is a collection of 8787 Samurai with visual and music rarity, mec...",
+  },
 ];
 
-export const Resources = [{}];
-export const Categories = [{}];
+export const Resources = [
+  {
+    image: "https://opensea.io/blog/wp-content/uploads/2021/10/Version-A.png",
+    href: "https://opensea.io/blog/safety-security/openseas-bug-bounty-program/",
+    title: "OpenSea’s Bug Bounty Program",
+  },
+  {
+    image: "https://opensea.io/blog/wp-content/uploads/2021/09/Untitled.png",
+    href: "https://opensea.io/blog/safety-security/10-tips-for-avoiding-scams-and-staying-safe-on-the-decentralized-web/",
+    title:
+      "10 tips for avoiding scams and staying safe on the decentralized web",
+  },
+  {
+    image:
+      "https://opensea.io/blog/wp-content/uploads/2021/03/buy-nft-safely-on-opensea-1.png",
+    href: "https://opensea.io/blog/safety-security/how-to-safely-purchase-nfts-on-opensea/",
+    title: "Keeping yourself safe when buying NFTs on OpenSea",
+  },
+  {
+    image:
+      "https://opensea.io/blog/wp-content/uploads/2021/02/creating-selling-nfts.png",
+    href: "https://opensea.io/blog/guides/the-beginners-guide-to-creating-selling-digital-art-nfts/",
+    title: "The beginner’s guide to creating & selling digital art NFTs",
+  },
+  {
+    image:
+      "https://opensea.io/blog/wp-content/uploads/2020/11/sell-on-opensea.png",
+    href: "https://opensea.io/blog/guides/7-reasons-to-sell-your-nfts-on-opensea/",
+    title: "7 reasons to sell your NFTs on OpenSea",
+  },
+  {
+    image:
+      "https://opensea.io/blog/wp-content/uploads/2020/05/welcome-to-opensea-nft-marketplace.png",
+    href: "https://opensea.io/blog/guides/welcome-to-opensea/",
+    title: "Welcome to OpenSea",
+  },
+  {
+    image: "https://opensea.io/blog/wp-content/uploads/2021/10/Version-A.png",
+    href: "https://opensea.io/blog/safety-security/openseas-bug-bounty-program/",
+    title: "OpenSea’s Bug Bounty Program",
+  },
+];
+
+export const Categories = [
+  {
+    image: "https://opensea.io/static/images/categories/art.png",
+    title: "Art",
+  },
+  {
+    image: "https://opensea.io/collection/collectibles",
+    title: "Collectibles",
+  },
+  {
+    image: "https://opensea.io/static/images/categories/domain-names.png",
+    title: "Domain Names",
+  },
+  {
+    image: "https://opensea.io/static/images/categories/music.png",
+    title: "Music",
+  },
+  {
+    image:
+      "https://opensea.io/static/images/categories/photography-category.png",
+    title: "Photography",
+  },
+  {
+    image: "https://opensea.io/collection/sports",
+    title: "Sports",
+  },
+  {
+    image: "https://opensea.io/collection/trading-cards",
+    title: "Trading Cards",
+  },
+  {
+    image: "https://opensea.io/static/images/categories/utility.png",
+    title: "Utility",
+  },
+  {
+    image: "https://opensea.io/static/images/categories/virtual-worlds.png",
+    title: "Virtual Worlds",
+  },
+];
