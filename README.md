@@ -1,34 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# stage one
 
-## Getting Started
+- initialize a new next js project using yarn and typescript and install dependencies
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+```javascript
+  yarn add @emotion/react @emotion/styled
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- clean up \_app.tsx and index.tsx
+- add head attributes
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# stage two
+set up themeing and basic config
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# stage three
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+components
 
-## Learn More
+## **phase one**
 
-To learn more about Next.js, take a look at the following resources:
+- cards
+- buttons
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## **phase two**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+carousel cards
 
-## Deploy on Vercel
+# stage four
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+navbar
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# stage five
+
+header
+
+# stage six
+
+carousel component
+
+# stage seven
+
+everything carousels
+
+_here, i build out all the carousels in the homepage_
+
+# stage eight
+
+create and sell your nfts
+
+# stage nine
+
+resources
+
+# stage ten
+
+footer
+
+## **phase one**
+
+meet opensea
+
+## **phase two**
+
+companies, stay in the loop, community
+
+## **phase three**
+
+actual footer
